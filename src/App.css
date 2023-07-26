@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.image_url{
+  height: 100px;
+  width: 100px;
+}
+.blogs_container{
+  background-color: rgb(167, 158, 158);
+  border-color: white;
+  color: white;
+}
+.container{
+  background-color:  #1e293b;
+}
+.heading{
+  color: white;
+  margin-left: 400px;
+}
